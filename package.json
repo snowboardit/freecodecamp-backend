@@ -4,6 +4,7 @@
 	"description": "A simple project to learn how to use package.json",
 	"keywords": [ "node", "javascript", "package", "json", "learning", "npm", "freecodecamp" ],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
